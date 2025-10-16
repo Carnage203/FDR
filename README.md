@@ -15,23 +15,6 @@ Face Detection and Recognition using Yolov5 and SSD Mobilenet trained on **custo
 
 ---
 
-## Project Structure
-
-The repository is organized as follows:
-
-```
-FDR/
-│
-├── notebooks/          # Main Jupyter Notebooks for detection, recognition, and experiments
-├── data/               # Sample datasets and data loading scripts
-├── models/             # Pretrained models or model definition scripts
-├── utils/              # Utility functions for preprocessing, visualization, etc.
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
-```
-
----
-
 ## Features
 
 - **Face Detection**:  
