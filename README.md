@@ -35,10 +35,10 @@ FDR/
 ## Features
 
 - **Face Detection**:  
-  Uses state-of-the-art algorithms (such as Haar Cascades, HOG + SVM, or deep learning models like MTCNN or RetinaFace) to accurately detect faces in static images or video streams.
+  Uses state-of-the-art algorithms YoloV5 to accurately detect faces in static images or video streams.
 
 - **Face Recognition**:  
-  Extracts features from detected faces and compares them using embeddings (e.g., FaceNet, VGGFace, ArcFace) for identification or verification tasks.
+  Uses SSD Mobilenet to accurately detect faces in static images or video streams.
 
 - **Preprocessing & Augmentation**:  
   Includes tools for image normalization, face alignment, and data augmentation to improve model robustness.
